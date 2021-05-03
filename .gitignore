@@ -1,0 +1,10 @@
+
+
+/build
+/dist
+/native
+/bin
+*.jar
+lib/CodenameOne_SRC.zip
+lib/impl/
+
